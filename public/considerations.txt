@@ -1,0 +1,10 @@
+Considerations:
+
+The activities and projects do not have any unique ID's which is what I would like to be passing between front and back end instead of the actual names and times.
+This way we prevent client tampering with the data as all numbers data being processed is server side.
+
+If sending the POST request returned the updated projects.json, then the rendering of the Visual could be tied to that instead of having my hacky solution of reassignment.
+
+If I could do this again I would edit how the data is sent to the backend to only send the updated project instead of the WHOLE projects.json file.
+
+Maybe add styling to the activity component based on the color of the selected project

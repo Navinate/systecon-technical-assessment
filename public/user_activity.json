@@ -1,0 +1,177 @@
+{
+  "username": "max.plank",
+  "day": "23-09-25",
+  "start": "07:48:53",
+  "end": "16:37:06",
+  "active": 28381,
+  "breaks": [
+    {
+      "time": 415,
+      "from": "10:04:39",
+      "to": "10:11:34"
+    },
+    {
+      "time": 421,
+      "from": "10:17:10",
+      "to": "10:24:11"
+    },
+    {
+      "time": 518,
+      "from": "11:36:14",
+      "to": "11:44:52"
+    },
+    {
+      "time": 1958,
+      "from": "12:29:32",
+      "to": "13:02:10"
+    }
+  ],
+  "apps": [
+    {
+      "app": "Visual Studio Code",
+      "time": 10066
+    },
+    {
+      "app": "Google Chrome",
+      "time": 8434
+    },
+    {
+      "app": "WindowsTerminal",
+      "time": 5359
+    },
+    {
+      "app": "Slack",
+      "time": 2565
+    },
+    {
+      "app": "Microsoft Teams",
+      "time": 1417
+    },
+    {
+      "app": "Microsoft Excel",
+      "time": 540
+    }
+  ],
+  "docs": [
+    {
+      "doc": "Anaconda Prompt (miniconda3)",
+      "app": "WindowsTerminal",
+      "time": 5124
+    },
+    {
+      "doc": "USJProd_App_Items_Cost.sql - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 2637
+    },
+    {
+      "doc": "WPI Services - Calendar - Week of September 24 2023 ",
+      "app": "Google Chrome",
+      "time": 2332
+    },
+    {
+      "doc": "items.py - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 2091
+    },
+    {
+      "doc": "Inbox (5) - max.plank@wpiservices.com - WPI Services Mail ",
+      "app": "Google Chrome",
+      "time": 1600
+    },
+    {
+      "doc": "normalize.py - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 1461
+    },
+    {
+      "doc": "payee_worksheet.csv - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 1427
+    },
+    {
+      "doc": "Meeting ",
+      "app": "Microsoft Teams",
+      "time": 1377
+    },
+    {
+      "doc": "Inbox (6) - max.plank@wpiservices.com - WPI Services Mail ",
+      "app": "Google Chrome",
+      "time": 868
+    },
+    {
+      "doc": "t.ipynb - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 864
+    },
+    {
+      "doc": "? t.ipynb - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 853
+    },
+    {
+      "doc": "Drafts (1) - max.plank@wpiservices.com - WPI Services Mail ",
+      "app": "Google Chrome",
+      "time": 704
+    },
+    {
+      "doc": "John Moon - WPI - Slack",
+      "app": "Slack",
+      "time": 628
+    },
+    {
+      "doc": "Inbox - max.plank@wpiservices.com - WPI Services Mail ",
+      "app": "Google Chrome",
+      "time": 565
+    },
+    {
+      "doc": "Ronald Nolan - WPI - Slack",
+      "app": "Slack",
+      "time": 537
+    },
+    {
+      "doc": "? items.py - Workspace ",
+      "app": "Visual Studio Code",
+      "time": 417
+    },
+    {
+      "doc": "Join conversation ",
+      "app": "Google Chrome",
+      "time": 373
+    },
+    {
+      "doc": "Jack Black Jamie Oliver Ronald Nolan - WPI - Slack",
+      "app": "Slack",
+      "time": 321
+    },
+    {
+      "doc": "Novitet - Excel",
+      "app": "Microsoft Excel",
+      "time": 273
+    },
+    {
+      "doc": "Anaconda Prompt (miniconda3) - python  process_items.py",
+      "app": "WindowsTerminal",
+      "time": 232
+    },
+    {
+      "doc": "Ronald Nolan - WPI - 5 new items - Slack",
+      "app": "Slack",
+      "time": 185
+    },
+    {
+      "doc": "Ronald Nolan - WPI - 1 new item - Slack",
+      "app": "Slack",
+      "time": 150
+    },
+    {
+      "doc": "New Tab ",
+      "app": "Google Chrome",
+      "time": 128
+    },
+    {
+      "doc": "Oracle Migration - Agile board - Jira ",
+      "app": "Google Chrome",
+      "time": 123
+    }
+  ]
+}

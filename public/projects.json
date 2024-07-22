@@ -1,0 +1,70 @@
+{
+  "data": [
+      {
+          "doc": "BELL (Opus)",
+          "icon": "mdi-chart-bell-curve-cumulative",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Bell: Consulting ",
+          "icon": "mdi-helicopter",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Business Development & Marketing",
+          "icon": "mdi-handshake-outline",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Customer Support",
+          "icon": "mdi-face-agent",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Ski Atomics: Customer Support",
+          "icon": "mdi-atom",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "JPO: Application",
+          "icon": "mdi-airplane-alert",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "JPO: JSF",
+          "icon": "mdi-airplane",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Overhead",
+          "icon": "business",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Training",
+          "icon": "school",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "Trident Systems: Trident",
+          "icon": "mdi-ferry",
+          "color": "#939799",
+          "time": 0
+      },
+      {
+          "doc": "US Army: Army Technical",
+          "icon": "mdi-wrench",
+          "color": "#939799",
+          "time": 0
+      }
+  ]
+}
